@@ -1,6 +1,6 @@
 package tugas_membuat_biodata;
 
-public class biodata_Fazel {
+public class biodata_Kelompok {
     public static void main(String[] args) {
         System.out.println("---------------------------------------------------------");
         System.out.println("-- Data Mahasiswa Jurusan Teknologi Informasi POLINEMA --");
